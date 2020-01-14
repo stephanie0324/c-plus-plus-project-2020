@@ -26,4 +26,4 @@
 ## Others
 ＊ 有圖片庫（resource files）以及一些QT本身的資料庫。  
 
-![](video/chat preview.gif)
+![](chat preview.gif)
